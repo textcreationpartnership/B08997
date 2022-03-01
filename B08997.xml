@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all persons that have any sense of the reality of vertue in the pursuit of my design to demonstrate, that the people called Quakers, deserve more favour from the Church of England, than any other sort of dissenters. I shall here recite some passages in the Book of common-prayer, to which they acknowledge, that it is their duty, and that in Christ they have a power, to conform themselves in the whole course of their lives. / By Edmund Elys.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08997</idno>
+            <idno type="OCLC"> 124064175</idno>
+            <idno type="STC">Wing E696A</idno>
+            <idno type="STC">ESTC R174970</idno>
+            <idno type="EEBO-CITATION">124064175</idno>
+            <idno type="OCLC">ocn 124064175</idno>
+            <idno type="VID">192259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192259)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2909:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all persons that have any sense of the reality of vertue in the pursuit of my design to demonstrate, that the people called Quakers, deserve more favour from the Church of England, than any other sort of dissenters. I shall here recite some passages in the Book of common-prayer, to which they acknowledge, that it is their duty, and that in Christ they have a power, to conform themselves in the whole course of their lives. / By Edmund Elys.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:192259:1" rendition="simple:additions"/>
+            <head>To all <hi>PERSONS</hi> that have any Senſe of the Reality of <hi>VERTUE,</hi> In the purſuit of my Deſign to demonſtrate, that the People called <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi> Deſerve more Favour from the <hi>Church of England,</hi> Than any other ſort of <hi>Diſſenters.</hi>
+            </head>
+            <head type="sub">I ſhall here Recite ſome Paſſages in the Book of <hi>Common-Prayer,</hi> to which they Acknowledge, that it is their Duty, and that In CHRIST they have a Power, to <hi>Conform</hi> themſelves in the whole Courſe of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Lives.</head>
+            <byline>By <hi>EDM<g ref="char:V">Ʋ</g>ND ELYS.</hi>
+            </byline>
+            <q>
+               <bibl>Common Prayer in the General Confeſſion.</bibl>
+               <p>GRant, O Moſt Merciful Father—That we may hereafter live a Godly, Righteous, and Sober Life, to the Glory of thy Holy Name. <hi>Amen.</hi>
+               </p>
+            </q>
+            <pb n="2" facs="tcp:192259:2"/>
+            <p>On which words <hi>John And.</hi> has this Reflection:
+<q>
+                  <p>By the Grace of GOD that bringeth Salvation, which hath appeared unto all Men, are we taught and enabled to deny Ungodlineſs, and Worldly Luſts, and to live Soberly, Righteouſly, and Godly in this preſent World.</p>
+                  <p>Why ſhould any Mock God to Pray ſo to live, and yet live quite contrary, and reject the Grace of God?</p>
+               </q>
+            </p>
+            <q>
+               <bibl>Com. Pr. in the Abſolution.</bibl>
+               <p>Wherefore we Beſeech him to grant us true Repentance, and his Holy Spirit, that thoſe things may pleaſe him which we do at this preſent, and that the reſt of our Life here<g ref="char:EOLhyphen"/>after may be pure, and holy, ſo that at the laſt we may come to his eternal joy through Jeſus Chriſt our Lord.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. <hi>Te Deum Laudamus.</hi>
+               </bibl>
+               <p>Vouchſafe, O Lord, to Keep us this Day without Sin.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. 2 Collect.</bibl>
+               <p>O God, who art the Author of Peace, and Lover of Concord—whoſe Service is Perfect Freedom.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. 3. Collect.</bibl>
+               <p>Lighten our Darkneſs we Beſeech thee, O LORD.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. in the Litany.</bibl>
+               <p>From all Evil, and Miſchief, from the Crafts and Aſſaults of the Devil, from all Blindneſs of Heart, from Pride, Vain Glory, and Hypocriſie, from Envy, Hatred, and Ma<g ref="char:EOLhyphen"/>lice, and all Uncharitableneſs: From Fornication, and all other Deadly Sin, and from all the Deceits of the World, the Fleſh, and the Devil, Good Lord De<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er us.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. in the Litany.</bibl>
+               <p>That it may pleaſe thee to bring into the Way of Truth all ſuch as have Erred.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. in the Litany.</bibl>
+               <p>That it may pleaſe thee, O LORD, to endue us with thy Holy Spirit to Amend our Lives.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Firſt Sunday in Advent.</bibl>
+               <p>Almighty GOD, give us Grace, That we may caſt
+<pb n="3" facs="tcp:192259:2"/> away the Works of Darkneſs, and put upon us the <hi>Armour of Light,</hi> now in the Time of this Mortal Life.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on St. <hi>Stephen</hi>'s Day.</bibl>
+               <p>Grant, O Lord, that in all our Sufferings here upon Earth for the Teſtimony of thy Truth, we may ſtedfaſtly look up to Heaven, and by Faith behold the Glory that ſhall be revealed, and being filled with the Holy Ghoſt, may learn to Love, and Bleſs our Perſecutors by the Enſample of this firſt Martyr St. <hi>Stephen,</hi> who prayed for his Murderers.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on <hi>Innocent</hi>'s Day.</bibl>
+               <p>Mortifie, and Kill all Vices in us, and ſo ſtrengthen us by thy Grace, that by the Innocency of our Lives, <hi>&amp;c.</hi> we may Glorifie thy Holy Name.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on Circumciſion Day.</bibl>
+               <p>Grant us the true Circumciſion of the Spirit, that our Hearts, and all our Members being Mortified from all Worldly, and Carnal Luſts, we may in all things Obey thy bleſſed Will.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on the Firſt Day of Lent, commonly called <hi>Aſhwedneſday.</hi>
+               </bibl>
+               <p>Create and make in us new and contrite Hearts.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on the 5th Sunday after Eaſter.</bibl>
+               <p>Lord Grant that by thy Holy Inſpiration we may think thoſe things that be good, and by thy merciful guiding may perform the ſame.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on the Sunday after Aſcenſion Day.</bibl>
+               <p>Send to us thy Holy GHOST to Comfort us.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on <hi>Whit ſunday.</hi>
+               </bibl>
+               <p>GOD, which didſt Teach the Hearts of thy faithful People, by ſending them the Light of the Holy Ghoſt, Grant us by the ſame Spirit to have a Right Judgment in All things.</p>
+            </q>
+            <p>Here (ſays <hi>J. A.)</hi> the Light is the Teacher, which we Own, and bear Witneſs to.</p>
+            <q>
+               <pb n="4" facs="tcp:192259:3"/>
+               <bibl>Com. Pr. Collect on St. <hi>Andrew</hi>'s Day.</bibl>
+               <p>Almighty GOD, Grant unto us all, that we being called by thy Holy WORD, may forthwith give up our ſelves Obediently to fulfil thy Holy Commandments.</p>
+            </q>
+            <q>
+               <bibl>Com. Pr. Collect on St. <hi>John Baptiſt</hi>'s Day.</bibl>
+               <p>Almighty GOD, make us conſtantly ſpeak the Truth, boldly rebuke Vice, and patiently ſuffer for the Truth's ſake.</p>
+            </q>
+            <p>I Deſire it may be Known to all Perſons that Know Me, or ſhall ever Hear of Me, that the People called QUA<g ref="char:EOLhyphen"/>KERS Concurr with Me in theſe Sentiments of CHRI<g ref="char:EOLhyphen"/>STIAN Purity, which <hi>ATHENAGORAS</hi> Teſtifies to have been the Sentiments of the <hi>Primitive</hi> CHRISTI<g ref="char:EOLhyphen"/>ANS.</p>
+            <q>
+               <bibl>
+                  <hi>Athenag. In Legatione pro Chriſtianis.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</bibl> 
+               <p>Summâ Cautione communican<g ref="char:EOLhyphen"/>dum eſt Oſculum, ut non aliter quàm Pia Salutatio, vel po<g ref="char:EOLhyphen"/>tiùs Adoratio quaedam habeatur: Quaeſi vel parum impurâ Cogitatione inquinata fuerit, à Vitâ Aeternâ nos alienet.</p>
+            </q>
+            <p>We Ought to have the greateſt Care, and Circumſpection, how we impart a Kiſs to any one, that it may be no other than a Pious Salutation, or an Act of Religion. If it excites our Thoughts to the leaſt Impurity, it excludes us from Eter<g ref="char:EOLhyphen"/>nal Life.</p>
+            <closer>COME LORD JES<g ref="char:V">Ʋ</g>S.</closer>
+            <trailer>FINIS.</trailer>
+            <pb n="4" facs="tcp:192259:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
